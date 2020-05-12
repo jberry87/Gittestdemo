@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-28T23:07:00Z" name="Suite" finished-at="2020-04-28T23:07:01Z" duration-ms="64">
+    <groups>
+    </groups>
+    <test started-at="2020-04-28T23:07:00Z" name="Test" finished-at="2020-04-28T23:07:01Z" duration-ms="64">
+      <class name="qaclickacademy.RestTest">
+        <test-method signature="browsetest3()[pri:0, instance:qaclickacademy.RestTest@5e600dd5]" started-at="2020-04-28T19:07:01Z" name="browsetest3" finished-at="2020-04-28T19:07:01Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsetest3 -->
+        <test-method signature="browsetest4()[pri:0, instance:qaclickacademy.RestTest@5e600dd5]" started-at="2020-04-28T19:07:01Z" name="browsetest4" finished-at="2020-04-28T19:07:01Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsetest4 -->
+      </class> <!-- qaclickacademy.RestTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method signature="browsetest()[pri:0, instance:qaclickacademy.SeleniumTest@4f80542f]" started-at="2020-04-28T19:07:01Z" name="browsetest" finished-at="2020-04-28T19:07:01Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsetest -->
+        <test-method signature="browsetest2()[pri:0, instance:qaclickacademy.SeleniumTest@4f80542f]" started-at="2020-04-28T19:07:01Z" name="browsetest2" finished-at="2020-04-28T19:07:01Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsetest2 -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
